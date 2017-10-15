@@ -1,0 +1,8 @@
+﻿已經開始建置於 2017/10/15 下午 11:48:08。
+     1>節點 2 (Build 目標) 上的專案 "D:\0各科作業\高階程式語言\Homework\HW2\4.28\HW\HW\HW.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Platform.targets(64,5): error MSB8020: The build tools for v141 (Platform Toolset = 'v141') cannot be found. To build using the v141 build tools, please install v141 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Upgrade Solution...".
+     1>專案 "D:\0各科作業\高階程式語言\Homework\HW2\4.28\HW\HW\HW.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.09
